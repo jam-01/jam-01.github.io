@@ -1,0 +1,22 @@
+.header {
+	background-color: green;
+	height:100px;
+}
+
+.header-logo {
+	float: left;
+}
+
+.header-list ul {
+	float: right;
+}
+
+.main {
+	background-color: blue;
+	height:500px;
+}
+
+.footer {
+	background-color: yellow;
+	height:300px;
+}
